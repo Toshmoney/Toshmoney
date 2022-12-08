@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Toshmoney
+- 👋 Hi, I’m Toshmoney
 - 👀 I’m interested in Web and app development 
 - 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on any programming works 
+- 💞️ I’m looking forward to collaborate on any programming works 
 - 📫 You can reach me on +2348103856846 or send mail to Abdulmaleeqomotosho@gmail.com
 
 <!---
