@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Toshmoney
+- 👋 Hi, I’m Toshmoney. A fullstack software engineer with great experience both on Mobile app and web app development
 - 👀 I’m interested in Web and mobile app development 
-- 🌱 I use python and JavaScript for my fullstack development. 
+- 🌱 I use Java Spring Boot and JavaScript (MERN Stack) for my fullstack development. 
 - 💞️ I’m looking forward to collaborate on any programming works 
 - 📫 You can reach me on +2348103856846 or send mail to Abdulmaleeqomotosho@gmail.com
 
