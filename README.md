@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Toshmoney. A fullstack software engineer with great experience both on Mobile app and web app development
+# Hi, I'm Toshmoney! 👋
+- A fullstack software engineer with great experience both on Mobile app and web app development
 
 ![toshmoney's Stats](https://github-readme-stats.vercel.app/api?username=toshmoney&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
