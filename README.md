@@ -1,6 +1,6 @@
 # Hi, my name is Tosh! 👋
 
-- A fullstack software engineer with great experience both on Mobile app and web app development
+- A senior software engineer focusing on both mobile and web development. mostly found writing on backend programs 😅 using nodejs, java springboot and Python Django.
 
 ![toshmoney's Stats](https://github-readme-stats.vercel.app/api?username=toshmoney&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
