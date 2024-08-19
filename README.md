@@ -4,6 +4,8 @@
 
 ![toshmoney's Stats](https://github-readme-stats.vercel.app/api?username=toshmoney&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=toshmoney&label=Profile%20views&color=blue&style=flat" alt="toshmoney" /> </p>
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,c#)](https://skillicons.dev)
 
