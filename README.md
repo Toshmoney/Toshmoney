@@ -5,7 +5,7 @@
 ![toshmoney's Stats](https://github-readme-stats.vercel.app/api?username=toshmoney&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,c#,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,c#,py)](https://skillicons.dev)
 
 
 - 👀 I’m interested in Web and mobile app development gigs
